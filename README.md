@@ -1,1 +1,1 @@
-# multimodule-flyway
+# multiproject-flyway

@@ -1,2 +1,2 @@
 # multiproject-flyway
-This project is about how to use single Flyway project in multiple spring-boot applications.  
+This project is about how to use single flyway project in multiple spring-boot applications.  
